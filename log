@@ -1,0 +1,16 @@
+param = /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model.obj
+assimp export: select file format: 'obj' (Wavefront OBJ format)
+Launching asset import ...           OK
+Validating postprocessing flags ...  OK
+Importing file ...                   OK 
+   import took approx. 0.00422 seconds
+
+Launching asset export ...           OK
+Exporting file ...                   OK 
+   export took approx. 0.10657 seconds
+
+assimp export: wrote output file: /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model.obj
+Input file: /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model.obj
+Output file: /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model_orig.usdz
+Pass mesh validation: /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model_orig.usdz
+usdARKitChecker: [Pass] /var/folders/dz/2h37rc2d7dd9z9vngn_6wx_h0000gn/T/tmp.rz2ZaA8T/model_orig.usdz
